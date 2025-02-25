@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Kshitij Adhikari</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/KshitijAdk" target="_blank">Kshitij Adhikari</a> 👋</h1>
 ---
 
 ### 🛠️ Tech Stack:
@@ -10,15 +10,15 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KshitijAdk&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KshitijAdk&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijAdk&layout=compact&theme=radical" />
 </p>
 
 ---
