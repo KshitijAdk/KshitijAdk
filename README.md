@@ -16,14 +16,6 @@
 
 ---
 
-### 🌍 Connect with Me:
-<p align="center">
-  <a href="www.linkedin.com/in/kshitij-adhikari"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="adhikarykshitiz123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 ### 🔥 Fun Facts:
 - 🔭 I’m currently working on **NayaSathi – Pet Adoption Platform** 🐶🐱
 - 💬 Ask me about **React, Node.js, MongoDB, or Express**
